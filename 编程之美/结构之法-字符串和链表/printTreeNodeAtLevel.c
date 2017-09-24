@@ -5,6 +5,7 @@ struct Node {
 	Node* lChild;
 	Node* rChild;
 }
+//level:层次数
 int printNodeAtLevel(Node* root, int level) {
 	if (!root || level < 0)
 		return 0;
@@ -16,7 +17,7 @@ int printNodeAtLevel(Node* root, int level) {
 }
 
 // 2、如果知道了二叉树的深度
-void printNodeAtLevel(Node* root, int depth) {
+void printNodeByLevel(Node* root, int depth) {
 	for (int level = 0; level < depth; level++) {
 		printNodeAtLevel(root, level);
 		cout << endl;
