@@ -47,7 +47,7 @@ SmartPtr<T>::~SmartPtr() {
 
 template<class T>
 SmartPtr<T>::SmartPtr(const SmartPtr<T> &orig) {
-	ptr = prig.ptr;
+	ptr = orig.ptr;
 	use_count = orig.use_count;
 	++(*use_count);
 	cout << "Copy Constructor is called!" << endl;
