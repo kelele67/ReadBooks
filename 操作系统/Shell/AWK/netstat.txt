@@ -1,0 +1,27 @@
+Proto Recv-Q Send-Q  Local Address          Foreign Address        (state)
+tcp4       0      0  192.168.88.103.54370   tsa01s07-in-f13..https SYN_SENT
+tcp4       0      0  192.168.88.103.54369   ti-in-f102.1e100.https SYN_SENT
+tcp4       0      0  192.168.88.103.54366   ti-in-f102.1e100.https SYN_SENT
+tcp4       0      0  192.168.88.103.54365   ti-in-f102.1e100.https SYN_SENT
+tcp4       0      0  192.168.88.103.54364   ti-in-f102.1e100.https SYN_SENT
+tcp4       0      0  192.168.88.103.54363   ti-in-f113.1e100.https SYN_SENT
+tcp4       0      0  192.168.88.103.54362   ti-in-f102.1e100.https SYN_SENT
+tcp4       0      0  192.168.88.103.54359   tsa01s07-in-f13..https SYN_SENT
+tcp4       0      0  192.168.88.103.54358   tsa01s07-in-f13..https SYN_SENT
+tcp4       0      0  192.168.88.103.54341   ti-in-f101.1e100.https SYN_SENT
+tcp4       0      0  192.168.88.103.54340   tg-in-f102.1e100.https SYN_SENT
+tcp4       0      0  192.168.88.103.54337   tg-in-f138.1e100.https SYN_SENT
+tcp4       0      0  192.168.88.103.54336   ti-in-f101.1e100.https SYN_SENT
+tcp6       0      0  liuqidemacbook-p.54333 yorukamidzuki.49464    ESTABLISHED
+tcp6       0      0  liuqidemacbook-p.54331 yorukamidzuki.49463    ESTABLISHED
+tcp6       0      0  liuqidemacbook-p.54326 yorukamidzuki.49462    ESTABLISHED
+tcp4       0      0  192.168.88.103.54320   tg-in-f101.1e100.https SYN_SENT
+tcp4       0      0  192.168.88.103.54317   17.188.138.70.5223     ESTABLISHED
+tcp4       0      0  192.168.88.103.54088   111.13.101.73.http     LAST_ACK
+tcp4       0      0  192.168.88.103.53860   120.197.89.235.50000   CLOSE_WAIT
+tcp4       0      0  192.168.88.103.53859   120.197.89.235.50000   CLOSE_WAIT
+tcp4       0      0  192.168.88.103.53858   120.197.89.235.50000   CLOSE_WAIT
+tcp4       0      0  192.168.88.103.53845   115.182.41.49.7080     ESTABLISHED
+tcp4       0      0  192.168.88.103.53826   115.182.41.173.http    ESTABLISHED
+tcp4       0      0  192.168.88.103.53793   151.101.76.133.https   ESTABLISHED
+tcp4       0      0  192.168.88.103.53737   tk-in-f188.1e100.5228  ESTABLISHED

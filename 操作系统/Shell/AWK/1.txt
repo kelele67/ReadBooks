@@ -1,0 +1,8 @@
+tcp6       0      0  liuqidemacbook-p.54333 yorukamidzuki.49464    ESTABLISHED
+tcp6       0      0  liuqidemacbook-p.54331 yorukamidzuki.49463    ESTABLISHED
+tcp6       0      0  liuqidemacbook-p.54326 yorukamidzuki.49462    ESTABLISHED
+tcp4       0      0  192.168.88.103.54317   17.188.138.70.5223     ESTABLISHED
+tcp4       0      0  192.168.88.103.53845   115.182.41.49.7080     ESTABLISHED
+tcp4       0      0  192.168.88.103.53826   115.182.41.173.http    ESTABLISHED
+tcp4       0      0  192.168.88.103.53793   151.101.76.133.https   ESTABLISHED
+tcp4       0      0  192.168.88.103.53737   tk-in-f188.1e100.5228  ESTABLISHED
