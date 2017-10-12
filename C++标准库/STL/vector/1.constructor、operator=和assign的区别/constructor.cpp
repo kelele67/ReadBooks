@@ -1,28 +1,28 @@
 /* constructor
 c++11
 
-default(1)
+default (1)
 explicit vector (const allocator_type& alloc = allocator_type());
 
-fill(2)
+fill (2)
 explicit vector (size_type n);
 		 vector (size_type n, const value_type& val,
 		 	     const allocator_type& alloc = allocator_type());
 
-range(3)
+range (3)
 template <class InputIterator>
 vector (InputIterator first, InputIterator last,
 	    const allocator_type& alloc = allocator_type());
 
-copy(4)
+copy (4)
 vector (vector&& x);
 vector (vector&& x, const allocator_type& alloc);
 
-move(5)
+move (5)
 vector (vector&& x);
 vector (vector&& x, const allocator_type& alloc);
 
-initializer list(6)
+initializer list (6)
 vector (initializer_list<value_type> il,
 	    const allocator_type& alloc = allocator_type());
 */
